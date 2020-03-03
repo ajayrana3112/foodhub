@@ -234,7 +234,8 @@ header {
 
 
 
-.logo {float:left;}
+.logo {float:left;
+padding-top:17px;}
 .logo a {
 	text-transform:uppercase;
 	line-height:80px;
